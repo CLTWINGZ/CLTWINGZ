@@ -1,5 +1,6 @@
 <!-- ========================= -->
 <!--  AI Engineer Profile README -->
+<!--  User: CLTWINGZ -->
 <!-- ========================= -->
 
 <div align="center">
@@ -10,10 +11,10 @@
   </a>
 
   <p>
-    <a href="https://chethanalakthilina.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/chethana-jathunarachchi-2ba45b281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:chethanalakthilina3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/CLTWINGZ"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://chethanalakthilina.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/chethana-jathunarachchi-2ba45b281"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:chethanalakthilina3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://github.com/CLTWINGZ"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
 </div>
@@ -32,19 +33,19 @@
 ## 🧠 Tech Stack (Icons)
 
 ### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,java,c,cpp,cs,scala&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,java,c,cpp,cs,scala&perline=9" alt="Languages"/>
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui,nextjs&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,materialui,nextjs&perline=9" alt="Frontend"/>
 
 ### 🧩 Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,flask&perline=9" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,flask&perline=9" alt="Backend"/>
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&perline=9" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&perline=9" alt="Databases"/>
 
 ### ☁️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,postman,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,postman,vscode&perline=9" alt="DevOps"/>
 
 ---
 
@@ -58,24 +59,25 @@
 
 ## 🧩 Featured Projects (Project Cards)
 
-> Replace repo names below with your **real repo names** on GitHub.
+> ⚠️ **Important:** Replace the `repo=` names below with your **real PUBLIC repository names** (case-sensitive).  
+> If a repo is private or the name is wrong, the card will show as a broken image.
 
 <div align="center">
 
   <a href="https://github.com/CLTWINGZ/JobNexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLTWINGZ&repo=JobNexus&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLTWINGZ&repo=JobNexus&theme=tokyonight&cache_seconds=86400" alt="JobNexus" />
   </a>
 
   <a href="https://github.com/CLTWINGZ/Small-Business-Inventory-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLTWINGZ&repo=Small-Business-Inventory-System&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLTWINGZ&repo=Small-Business-Inventory-System&theme=tokyonight&cache_seconds=86400" alt="Small Business Inventory System" />
   </a>
 
   <a href="https://github.com/CLTWINGZ/Weather-Analytics-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLTWINGZ&repo=Weather-Analytics-App&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLTWINGZ&repo=Weather-Analytics-App&theme=tokyonight&cache_seconds=86400" alt="Weather Analytics App" />
   </a>
 
   <a href="https://github.com/CLTWINGZ/AI-Watson-Flask-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLTWINGZ&repo=AI-Watson-Flask-App&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CLTWINGZ&repo=AI-Watson-Flask-App&theme=tokyonight&cache_seconds=86400" alt="AI Watson Flask App" />
   </a>
 
 </div>
@@ -85,11 +87,11 @@
 ## 📈 GitHub Analytics
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=CLTWINGZ&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLTWINGZ&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CLTWINGZ&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLTWINGZ&layout=compact&theme=tokyonight&cache_seconds=86400" height="165" alt="Top Languages" />
 
   <br/>
-  <img src="https://streak-stats.demolab.com?user=CLTWINGZ&theme=tokyonight" height="180" />
+  <img src="https://streak-stats.demolab.com?user=CLTWINGZ&theme=tokyonight&cache_seconds=86400" height="180" alt="GitHub Streak" />
 
 </div>
 
