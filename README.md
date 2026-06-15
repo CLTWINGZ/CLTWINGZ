@@ -151,7 +151,7 @@
 ---
 
 ## 📫 Contact
-- 🌐 Portfolio: **https://chethanalakthilina.vercel.app**
+- 🌐 Portfolio: **https://chethana-lakthilina.vercel.app**
 - 💼 LinkedIn: **https://linkedin.com/in/chethana-jathunarachchi-2ba45b281**
 - ✉️ Email: **chethanalakthilina3@gmail.com**
 
